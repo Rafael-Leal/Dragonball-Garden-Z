@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: 11f5e9335fe433346aead1ea3bef2d14
+timeCreated: 1498259589
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_0
+    21300002: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_1
+    21300004: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_2
+    21300006: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_3
+    21300008: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_4
+    21300010: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_5
+    21300012: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_6
+    21300014: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_7
+    21300016: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_8
+    21300018: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_9
+    21300020: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_10
+    21300022: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_11
+    21300024: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_12
+    21300026: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_13
+    21300028: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_14
+    21300030: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_15
+    21300032: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_16
+    21300034: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_17
+    21300036: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_18
+    21300038: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_19
+    21300040: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_20
+    21300042: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_21
+    21300044: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_22
+    21300046: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_23
+    21300048: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_24
+    21300050: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_25
+    21300052: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_26
+    21300054: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_27
+    21300056: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_28
+    21300058: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_29
+    21300060: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_30
+    21300062: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_31
+    21300064: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_32
+    21300066: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_33
+    21300068: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_34
+    21300070: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_35
+    21300072: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_36
+    21300074: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_37
+    21300076: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_38
+    21300078: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_39
+    21300080: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_40
+    21300082: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_41
+    21300084: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_42
+    21300086: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_43
+    21300088: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_44
+    21300090: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_45
+    21300092: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_46
+    21300094: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_47
+    21300096: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_48
+    21300098: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_49
+    21300100: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_50
+    21300102: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_51
+    21300104: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_52
+    21300106: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_53
+    21300108: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_54
+    21300110: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_55
+    21300112: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_56
+    21300114: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_57
+    21300116: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_58
+    21300118: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_59
+    21300120: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_60
+    21300122: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_61
+    21300124: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_62
+    21300126: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_63
+    21300128: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_64
+    21300130: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_65
+    21300132: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_66
+    21300134: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_67
+    21300136: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_68
+    21300138: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_69
+    21300140: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_70
+    21300142: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_71
+    21300144: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_72
+    21300146: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_73
+    21300148: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_74
+    21300150: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_75
+    21300152: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_76
+    21300154: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_77
+    21300156: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_78
+    21300158: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_79
+    21300160: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_80
+    21300162: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_81
+    21300164: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_82
+    21300166: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_83
+    21300168: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_84
+    21300170: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_85
+    21300172: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_86
+    21300174: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_87
+    21300176: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_88
+    21300178: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_89
+    21300180: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_90
+    21300182: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_91
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 966
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 937
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 950
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 947
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 946
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 948
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 947
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 946
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_8
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 949
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_9
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 951
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 948
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 950
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_12
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 985
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 970
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_14
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 985
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_15
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 976
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_16
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 984
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_17
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 970
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_18
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 985
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_19
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 978
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_20
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 968
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_21
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 952
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_22
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 968
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_23
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 970
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_24
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 952
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_25
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 959
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 959
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_27
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_28
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 948
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 880
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 881
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 881
+        width: 76
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 883
+        width: 83
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 883
+        width: 84
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_34
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 883
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_35
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 883
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_36
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 885
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_37
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 884
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_38
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 886
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 798
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 800
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_41
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 798
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 800
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_43
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 758
+        width: 101
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_44
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 756
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_45
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 757
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_46
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 759
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 759
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 760
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_49
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 760
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 760
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 708
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_52
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 706
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 705
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_54
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 703
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_55
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 701
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_56
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 699
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_57
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 699
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_58
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 699
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_59
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 697
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_60
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 697
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 640
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_62
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 639
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_63
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 633
+        width: 184
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_64
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 643
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 484
+        width: 94
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_66
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 487
+        width: 105
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 491
+        width: 115
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_68
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 494
+        width: 128
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_69
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 494
+        width: 146
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_70
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 493
+        width: 148
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_71
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 347
+        width: 149
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 343
+        width: 151
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_73
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 345
+        width: 151
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_74
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 346
+        width: 153
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_75
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 341
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_76
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 192
+        width: 162
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_77
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 191
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_78
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 329
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 191
+        width: 156
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_80
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 191
+        width: 160
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_81
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 152
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_82
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 16
+        width: 94
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_83
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 140
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_84
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 129
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_85
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 73
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 22
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_87
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 92
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_88
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 11
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_89
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 51
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 15
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dbz_aura__s_and_effects_sheet_by_shadow228-d45yxsd_91
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 10
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
